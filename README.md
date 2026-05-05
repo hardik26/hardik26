@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hello, I am Hardik, a Mobile Application Developer!
 
+🔭 I’m currently working on building Android apps that are fast, scalable, and actually enjoyable to use, not just “it works” apps.
+
+👯 I’m looking to collaborate on mobile projects where clean architecture, performance, and real-world impact matter.
+
+🤝 I’m interested in exchanging ideas around Android best practices, system design, and building products that don’t fall apart at scale.
+
+🌱 I’m currently learning more about modern Android development, system design, and exploring AI/ML to stay relevant long-term.
+
+💬 Ask me about Android development, handling customers in fast-paced environments, or adapting to a new country and job market.
+
+⚡ Fun fact: I care more about app performance than my phone battery, if it drops frames, it bothers me more than 1% battery loss.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikpandya26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardikpandya26@gmail.com) 
