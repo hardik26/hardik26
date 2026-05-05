@@ -21,7 +21,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✍️ Portfolio
-![](https://hardikcodes.lovable.app/)
-
-
+## 🌐 Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://hardikcodes.lovable.app/)
