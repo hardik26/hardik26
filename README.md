@@ -1,16 +1,16 @@
 # 💫 About Me:
 
-🔭 I’m currently working on building Android apps that are fast, scalable, and actually enjoyable to use, not just “it works” apps.
+📱 Building Android apps that are fast, clean, and actually hold up under real usage. Not just demos that look good in a meeting.
 
-👯 I’m looking to collaborate on mobile projects where clean architecture, performance, and real-world impact matter.
+🏗 Looking to work on mobile projects where architecture and performance are taken seriously, not patched together after launch.
 
-🤝 I’m interested in exchanging ideas around Android best practices, system design, and building products that don’t fall apart at scale.
+☕ Always happy to talk Android best practices, system design, or just why some codebases age well and others don't.
 
-🌱 I’m currently learning more about modern Android development, system design, and exploring AI/ML to stay relevant long-term.
+📚 I am currently learning more about modern Android development, and exploring AI/ML to stay relevant long-term.
 
-💬 Ask me about Android development, handling customers in fast-paced environments, or adapting to a new country and job market.
+🌍 Ask me about Android, staying sane in a stressful job, or moving to a new country with no contacts and figuring it out anyway.
 
-⚡ Fun fact: I care more about app performance than my phone battery, if it drops frames, it bothers me more than 1% battery loss.
+⚡ Fun fact: dropped frames bother me more than low battery. My phone can die, but it better not stutter on the way out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikpandya26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardikpandya26@gmail.com) 
